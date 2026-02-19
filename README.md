@@ -1,2 +1,15 @@
-# backend_6996ebd9708d39f9e7f336ac
-Backend API repository for The Food Collector Truck Mission
+# The Food Collector Truck Mission - Backend API
+
+## Application Database
+
+**Application DB Connection String:** `postgresql://db_appdb_6996ebd9708d39f9e7f336ac_user:Pjmg1bpxX%21xDTXQ7FBr%2As%21xXXe1QAfEx@ep-little-credit-aib04pcn.c-4.us-east-1.aws.neon.tech:5432/AppDB_6996ebd9708d39f9e7f336ac?sslmode=require`
+
+**Swagger API Tester URL:** /swagger
+
+## Recommended Tools
+
+**Recommended SQL Editor tool (Free):** [pgAdmin](https://www.pgadmin.org/download/)
+
+## Deployment
+
+This backend is configured for Railway deployment using nixpacks.toml.
